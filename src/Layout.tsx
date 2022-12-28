@@ -1,5 +1,5 @@
 import React from 'react';
-import Box, { BoxProps } from './Box';
+import Box from './Box';
 import { Action } from './App';
 
 interface LayoutProps {
